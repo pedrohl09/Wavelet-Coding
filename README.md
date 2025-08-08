@@ -17,7 +17,7 @@ The simulation calculates the Bit Error Rate (BER) for different Signal-to-Noise
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/pedrohl09/Wavelet-Conding.git
+    git clone https://github.com/pedrohl09/Wavelet-Coding.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
