@@ -1,6 +1,6 @@
 # Wavelet-Coding
 
-This repository contains a Python implementation of a digital communication system simulator that uses wavelet codes. This project is a Python translation of the original C code developed by Professor Luiz Gonzaga of the Department of Computer and Automation Engineering (DCA) at the Federal University of Rio Grande do Norte (UFRN).
+This repository contains a Python implementation of a digital communication system simulator that uses wavelet codes. This project is a Python translation of the original C code developed by Professor Luiz Gonzaga of the Department of Communication Engineering (DCO) at the Federal University of Rio Grande do Norte (UFRN).
 
 ## Description
 
