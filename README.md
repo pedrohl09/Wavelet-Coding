@@ -21,7 +21,7 @@ The simulation calculates the Bit Error Rate (BER) for different Signal-to-Noise
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Wavelet-Conding
+    cd Wavelet-Coding
     ```
 3.  **Run the simulation:**
     ```bash
